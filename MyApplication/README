@@ -1,0 +1,2 @@
+BLEpositioning和IbeaconRecord已弃用，蓝牙接收程序写在主活动中
+getMessage也近乎弃用
